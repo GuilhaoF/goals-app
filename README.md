@@ -1,20 +1,19 @@
-<h1 align="center">
-  <img width="100%" alt="Banner" title="Banner" src=".github/banner.png" />
-</h1>
+## Descrição
 
-### Links
+Projeto para gerenciamento de metas financeiras com uso bem simples para definir metas e registrar seus investimentos e retiradas.
+Foi usado React Native com NativeWind para estilização, banco de dados está sendo utilizado SQLite com um novo pacote para o Next.
 
-🔴 **Assista meus vídeos no YouTube:** [@orodrigogo](https://www.youtube.com/@orodrigogo)
+## Preparação do projeto
 
-🔴 **Figma do projeto:** [MyGoals App](https://www.figma.com/community/file/1346604660147063430)
+- ``npm install``
+- ``npm run android``
 
----
-
-<h1 align="center">
-  <img width="100%" alt="Banner" title="App" src=".github/app.png" />
-</h1>
-
-### Sobre o projeto
-
-Imagine que Rodrigo deseja comprar um Notebook novo que custa R$ 5.000,00. Ele acha prudente poupar o dinheiro necessário para comprar à vista, conseguir um bom preço e não comprometer o orçamento com parcelas.
-Por isso, pode usar esse App Minhas Metas para poupar até atingir sua meta financeira para adquirir um Notebook novo. Esse é um dos projetos desenvolvidos em aula do evento React Native na Prática.
+## Ferramentas e Tecnologias
+<div style="display: flex; justify-content: space-around;">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"  width="40" height="40" />
+  <img loading="lazy" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://static-00.iconduck.com/assets.00/file-type-expo-icon-1807x2048-zlqoaiu7.png" width="40" height="40"/>
+</div>
