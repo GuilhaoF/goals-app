@@ -1,10 +1,10 @@
 
 <h1 align="center">
-    <img alt="cook-home" title="#comidasereceitas" src="https://github.com/GuilhaoF/cook-app/assets/67026555/d3d71e6a-baf5-422c-9f33-9ec0436c1bb6" width="400px" />
+   <img width="96" height="96" src="https://img.icons8.com/doodle/96/stack-of-money.png" alt="stack-of-money"/>
 </h1>
 
 <h4 align="center"> 
-	  Cook Food 🍔🥗 Concluído 🚀 
+	  Goals 🤑💵 Concluído 🚀 
 </h4>
 
 <p align="center">
@@ -20,16 +20,17 @@
 
 ## 💻 Sobre o projeto
 
-🥗Imagine chegar em casa com fome depois de um dia de muito trabalho e lembrar que você esqueceu de passar no mercado para fazer as compras da semana. Então você decide abrir a geladeira pra fazer uma janta com o que já tem em casa, mas está sem muita criatividade pra cozinhar. É esse problema que o Cook App pode resolve! Nessa aula do evento React Native na prática vamos criar uma aplicação que sugere receitas conforme os ingredientes selecionados usando React Native, Expo, Expo router, Supabase e React Native reanimated.
-
+💵🤑 Imagine que Rodrigo deseja comprar um Notebook novo que custa R$ 5.000,00. Ele acha prudente poupar o dinheiro necessário para comprar à vista, conseguir um bom preço e não comprometer o orçamento com parcelas. Por isso, pode usar esse App Minhas Metas para poupar até atingir sua meta financeira para adquirir um Notebook novo. Esse é um dos projetos desenvolvidos em aula do evento React Native na Prática.
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Carrega ingredientes para selecao 
-- [x] Mostra os ingredientes selecionados pelo usuario
-- [x] Busca as receitas compativeis com os ingredientes selecionados 
-- [x] Exibe as receitas com os modos de preparos
+- [x] Mostra as metas 
+- [x] Adiciona as metas 
+- [x] Adiciona depositos para aquela meta
+- [x] Reduz o saldo das metas (retiradas em dinheiro)
+- [x] Mostra a porcentagem alcancada daquela meta
+
 
 ---
 
@@ -37,7 +38,7 @@
 
 O layout da aplicação está disponível no Figma:
 
-<a href='https://www.figma.com/community/file/1346604268107725445'>
+<a href='https://www.figma.com/community/file/1346604660147063430'>
   <img alt="Made by luis" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
@@ -64,17 +65,18 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 #### 🎲  Backend (servidor)
 
 ```bash
- ## projeto usando supabase consultar documentacao e as variaveis que precisam no arquivo .env_example
+ ## projeto usando sqlite do expo
+ consulte em https://docs.expo.dev/versions/latest/sdk/sqlite-next/
 
 ```
 #### 📱  Mobile 
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/GuilhaoF/cook-app.git
+$ git clone https://github.com/GuilhaoF/goals-app.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd cook-app
+$ cd goals-app
 
 # Instale as dependências
 $ npm install ou npm i 
@@ -114,12 +116,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Expo](https://expo.io/)**
 -   **[Expo Google Fonts](https://github.com/expo/google-fonts)**
 -   **[Expo Constants](https://docs.expo.io/versions/latest/sdk/constants/)**
--   **[Supabase](https://supabase.com/docs)**
+-   **[Sqlite Expo](https://docs.expo.dev/versions/latest/sdk/sqlite-next/)**
 -   **[Reanimated](https://docs.swmansion.com/react-native-reanimated/)**
 -   **[Expo Router](https://docs.expo.dev/router/introduction/)**
--   **[Expo-Linear-Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)**
+-   **[Nativewind](https://www.nativewind.dev/)**
+-   **[BottomSheet](https://github.com/gorhom/react-native-bottom-sheet)**
+-   **[DayJs](https://day.js.org/)**
 
-> Veja o arquivo  [package.json](https://github.com/GuilhaoF/cook-app/blob/master/package.json)
+> Veja o arquivo  [package.json](https://github.com/GuilhaoF/goals-app/blob/main/package.json)
 
 ---
 
