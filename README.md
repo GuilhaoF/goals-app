@@ -1,6 +1,6 @@
 
 <h1 align="center">
-   <img width="96" height="96" src="https://img.icons8.com/doodle/96/stack-of-money.png" alt="stack-of-money"/>
+   <img width="240" height="240" src="https://img.icons8.com/doodle/240/stack-of-money.png" alt="stack-of-money"/>
 </h1>
 
 <h4 align="center"> 
@@ -46,9 +46,9 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="home" title="home" src="https://github.com/GuilhaoF/cook-app/assets/67026555/3148d80d-44da-451a-8992-0f1544631076" width="200px">
-  <img alt="receitas" title="receitas" src="https://github.com/GuilhaoF/cook-app/assets/67026555/29a287b4-59e1-4c7e-bfb1-a22734d01fcc" width="200px">
-  <img alt="receitas-modos" title="modos de preparo" src="https://github.com/GuilhaoF/cook-app/assets/67026555/c7d9753a-4218-4e2b-8016-d52b6d42ccee" width="200px">
+  <img alt="home"  src="" width="200px">
+  <img alt="tela de adicionar saldo" src="" width="200px">
+  <img alt="tela"  src="" width="200px">
 </p>
 
 ---
