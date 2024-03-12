@@ -27,7 +27,7 @@ export function Goals({ goals, onAdd, onPress }: Props) {
     >
       <TouchableOpacity
         activeOpacity={0.7}
-        className="bg-yellow-500 w-16 max-h-44 items-center justify-center rounded-lg"
+        className="bg-green-600 w-16 max-h-44 items-center justify-center rounded-lg"
         onPress={onAdd}
       >
         <MaterialIcons name="add" size={36} color={colors.black} />

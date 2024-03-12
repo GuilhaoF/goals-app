@@ -11,7 +11,7 @@ export function Progress({ percentage }: Props) {
   return (
     <View className="w-full h-7 rounded-full bg-gray-400 overflow-hidden flex-row items-center">
       <View
-        className="h-7 items-end justify-center rounded-full bg-yellow-500"
+        className="h-7 items-end justify-center rounded-full bg-green-700"
         style={{ width: `${width}%` }}
       >
         {percentage >= 60 && (
