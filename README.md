@@ -46,9 +46,10 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="home"  src="" width="200px">
-  <img alt="tela de adicionar saldo" src="" width="200px">
-  <img alt="tela"  src="" width="200px">
+  <img alt="home" src="https://github.com/GuilhaoF/goals-app/assets/67026555/17adf3c0-f325-4dc2-b621-25e612574be5" width="200px">
+  <img alt="tela de adicionar meta" src="https://github.com/GuilhaoF/goals-app/assets/67026555/a7ed4a26-0d50-4e06-8167-706750338c8b" width="200px">
+  <img alt="tela inicial meta"  src="https://github.com/GuilhaoF/goals-app/assets/67026555/5cdf3685-2a7c-4a0b-b6de-aae2476b9796" width="200px">
+  <img alt="tela nova transacao"  src="https://github.com/GuilhaoF/goals-app/assets/67026555/ab40ee2c-1492-48f8-a380-879106408f5b" width="200px">
 </p>
 
 ---
